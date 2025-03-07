@@ -7,7 +7,7 @@ This repository showcases both past and present web development projects, where 
 This project is a simulation of a private club website, consisting of a 5-page site. It demonstrates how to create a basic website with dynamic content and interactions using web development technologies.
 
 ### Languages and Technologies Used:
-**PHP**, **HTML**, **CSS**, **MySQL**, **XAMPP**, **Apache Web Server**, **MySQL Database**
+`PHP`, `HTML`, `CSS`, `MySQL`, `XAMPP`, `Apache Web Server`, `MySQL Database`
 
 ### Project Structure:
 - **Website Folder**: Contains the core of the website with 5 landing pages and resource folder
